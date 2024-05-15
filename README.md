@@ -1,4 +1,4 @@
-#frontend task
+# frontend task
 
 Перегляд списку записів основної сутності src/app/components/ProductListView.jsx
 
